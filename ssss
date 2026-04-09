@@ -1,0 +1,1102 @@
+🔥 **ADVANCED FEATURES - LEVEL UP!** 🔥
+
+Bhai ab game ko **NEXT LEVEL** pe le jaate hain! Yeh sab features add karte hain:
+
+---
+
+## 💼 **ADVANCED DEALS & TRADE SYSTEM**
+
+### **1. Trade Types & Features**
+
+**A) Simple Resource Trade**
+```
+/trade @cityname
+
+┏━━━ TRADE OFFER ━━━┓
+┃ Your Offer:
+┃ ├─ 1000 🪵 Wood
+┃ ├─ 500 ⛏️ Stone
+┃ └─ Value: 3,000💰
+┃
+┃ You Want:
+┃ ├─ 2000 💰 Gold
+┃ ├─ 200 🌾 Food
+┃ └─ Value: 3,200💰
+┃
+┃ Trade Balance: Fair ✅
+┗━━━━━━━━━━━━━━━━━━┛
+
+Other city gets:
+[✅ Accept] [💬 Counter] [❌ Reject]
+```
+
+**B) Advanced Deal Features**
+
+**Package Deals (Bundles):**
+```
+/createpackage
+
+Mayor creates preset deals:
+├─ 📦 Starter Pack: 500🪵 + 300⛏️ = 1,000💰
+├─ 📦 War Pack: 10👥 troops + 5🗡️ weapons = 5,000💰
+├─ 📦 Builder Pack: Instant build token = 8,000💰
+└─ 📦 Mystery Pack: Random items = 3,000💰
+
+Any city can buy instantly!
+```
+
+**Subscription Trades:**
+```
+/subscribe @cityname [package] [duration]
+
+Example:
+City A subscribes to City B's "Resource Pack"
+├─ Every 24 hours: Auto-send 500🪵
+├─ City B receives: 400💰 daily
+├─ Duration: 7 days
+└─ Can cancel anytime
+
+Benefits:
+✅ Stable income for seller
+✅ Guaranteed resources for buyer
+✅ Long-term partnerships
+```
+
+**Auction System:**
+```
+/auction create
+
+Rare Item Auction:
+┏━━━ LIVE AUCTION ━━━┓
+┃ 🏺 Ancient Artifact
+┃ Effect: +50% Gold production (permanent)
+┃
+┃ Starting Bid: 10,000💰
+┃ Current Bid: 25,000💰 by @CityKing
+┃ Time Left: 2 hours 15 min
+┃
+┃ [Place Bid] [Watch]
+┗━━━━━━━━━━━━━━━━━━┛
+
+Auto-notifications at:
+├─ 30 min left
+├─ 5 min left
+└─ When outbid
+```
+
+**Barter System (No Gold):**
+```
+/barter @cityname
+
+Pure resource exchange:
+Offer: 2000🪵 + 1000⛏️
+Want: 500🌾 + 5⚔️ Troops
+
+Good for:
+├─ When gold is scarce
+├─ Direct needs fulfillment
+└─ Avoiding market fees
+```
+
+---
+
+### **2. Trade Buffs & Bonuses**
+
+**Trade Reputation System:**
+```
+Every successful trade:
+├─ +1 Trade Rep
+├─ Failed/Cancelled: -2 Rep
+
+Reputation Tiers:
+├─ 🥉 Novice (0-10): Normal fees
+├─ 🥈 Trusted (11-50): -10% fees
+├─ 🥇 Elite (51-100): -20% fees, Priority listings
+├─ 💎 Legend (101+): -30% fees, Can create contracts
+└─ ⭐ Master (500+): Free trades, Special badge
+
+Higher rep = Better deals offered to you!
+```
+
+**Trade Buffs:**
+```
+Mayor can activate city-wide buffs:
+
+🔹 Trade Boom (2 hours)
+├─ All trades -50% fees
+├─ +20% trade speed
+└─ Cost: 5,000💰
+
+🔹 Merchant's Blessing (1 hour)  
+├─ Incoming trades +10% value
+├─ Attract more traders
+└─ Cost: 3,000💰
+
+🔹 Discount Day (4 hours)
+├─ Your packages -25% price
+├─ More buyers attracted
+└─ Cost: 7,000💰
+```
+
+**Trade Routes (Advanced):**
+```
+/traderoute create @city1 @city2 @city3
+
+Establish permanent route:
+┏━━━ TRADE ROUTE ━━━┓
+┃ Route: YourCity → City1 → City2 → City3
+┃
+┃ Auto-Trade Schedule:
+┃ Daily 12:00 PM
+┃ ├─ Send: 500🪵 to City1
+┃ ├─ Receive: 400💰 from City1
+┃ ├─ Send: 300⛏️ to City2  
+┃ └─ Receive: 200🌾 from City2
+┃
+┃ Route Bonus: -15% fees (established route)
+┗━━━━━━━━━━━━━━━━━━┛
+
+Benefits:
+✅ Auto-pilot trading
+✅ Reduced fees over time
+✅ Build trust network
+```
+
+**Trade Contracts (Legal Binding):**
+```
+/contract @cityname
+
+Smart Contract:
+├─ Terms: City A sends 1000💰 weekly
+├─ City B sends 500🪵 weekly  
+├─ Duration: 30 days
+├─ Penalty for breaking: 5,000💰
+├─ Escrow: 10% held by system
+
+Both parties sign:
+[🖊️ Sign Contract]
+
+Auto-enforced by bot!
+If someone breaks = Auto penalty
+```
+
+---
+
+## 📝 **REGISTRATION & JOIN REQUEST SYSTEM**
+
+### **1. Application System**
+
+**City Registration Requirements:**
+```
+Mayor sets join requirements:
+
+/setrequirements
+
+┏━━━ JOIN REQUIREMENTS ━━━┓
+┃ Minimum Level: 5
+┃ Minimum Gold: 2,000💰
+┃ Activity: Must be active 3 days
+┃ Questions: Yes (custom)
+┃ Approval: Manual ✅
+┃ Referral Needed: No
+┗━━━━━━━━━━━━━━━━━━━━━┛
+
+[💾 Save] [🔄 Reset to Default]
+```
+
+**Application Form:**
+```
+User clicks join:
+
+┏━━━ APPLICATION TO AVALON CITY ━━━┓
+┃ 
+┃ Why do you want to join? (Required)
+┃ ├─ [Text input]
+┃
+┃ What's your playstyle? (Required)
+┃ ├─ [ ] Warrior (focus on attacks)
+┃ ├─ [ ] Builder (focus on development)
+┃ ├─ [ ] Trader (focus on economy)
+┃ └─ [ ] Support (help others)
+┃
+┃ How active are you? (Required)
+┃ ├─ ( ) Daily (2+ hours)
+┃ ├─ ( ) Regular (1 hour)
+┃ └─ ( ) Casual (30 min)
+┃
+┃ Previous City: (Optional)
+┃ ├─ [Text input]
+┃
+┃ Referral Code: (Optional)
+┃ ├─ [Text input]
+┃
+┃ Discord/Telegram: (Optional)
+┃ ├─ [Text input]
+┃
+┗━━━━━━━━━━━━━━━━━━━━━━━━━┛
+
+[📤 Submit Application]
+```
+
+**Auto-Checks Before Submission:**
+```
+System validates:
+├─ ✅ User Level: 7 (Required: 5)
+├─ ✅ Gold: 3,500💰 (Required: 2,000)
+├─ ✅ Active Days: 5 (Required: 3)
+├─ ❌ Banned from city? No
+├─ ✅ Not in another city
+└─ ✅ Application cooldown: OK
+
+If all ✅ → Submit
+If any ❌ → Show error
+```
+
+---
+
+### **2. Request Management System**
+
+**For Mayor/Officers:**
+```
+/requests
+
+┏━━━ PENDING APPLICATIONS ━━━┓
+┃ 
+┃ [1] @Player123 (Level 8)
+┃     ├─ Applied: 2 hours ago
+┃     ├─ Gold: 5,000💰
+┃     ├─ Type: Warrior
+┃     └─ Reason: "Want to help city grow"
+┃     [👁️ View Full] [✅ Accept] [❌ Reject]
+┃
+┃ [2] @CityBuilder (Level 12)  
+┃     ├─ Applied: 5 hours ago
+┃     ├─ Gold: 10,000💰
+┃     ├─ Type: Builder
+┃     ├─ Referred by: @OldMember
+┃     └─ Reason: "Expert in city planning"
+┃     [👁️ View Full] [✅ Accept] [❌ Reject]
+┃
+┃ [3] @NoobGamer (Level 3) ⚠️
+┃     ├─ Applied: 1 day ago
+┃     ├─ Gold: 800💰 (Low!)
+┃     ├─ Type: Casual
+┃     └─ Reason: "pls add me"
+┃     [👁️ View Full] [✅ Accept] [❌ Reject]
+┃
+┃ Total Pending: 12
+┗━━━━━━━━━━━━━━━━━━━━━━━┛
+
+[🔄 Refresh] [⚙️ Bulk Actions]
+```
+
+**Detailed Application View:**
+```
+/viewapp 1
+
+┏━━━ APPLICATION #1 ━━━┓
+┃ Player: @Player123
+┃ Level: 8 | Gold: 5,000💰
+┃ Joined Game: 15 days ago
+┃ Activity: ⭐⭐⭐⭐ (Very Active)
+┃
+┃ Stats:
+┃ ├─ Wars Won: 3
+┃ ├─ Trades Done: 12
+┃ ├─ Buildings Built: 25
+┃ └─ Reputation: 🥈 Trusted
+┃
+┃ Previous Cities:
+┃ ├─ Dragon City (10 days) - Left peacefully
+┃ └─ None before that
+┃
+┃ Playstyle: Warrior 🗡️
+┃
+┃ Application Answers:
+┃ ❓ Why join us?
+┃ 💬 "I love your city's strategy and want
+┃    to contribute to wars. I'm active daily
+┃    and can help defend."
+┃
+┃ ❓ What can you bring?
+┃ 💬 "Strong troops, active participation,
+┃    and team spirit!"
+┃
+┃ Referred By: None
+┃
+┃ Background Check:
+┃ ├─ ✅ No ban history
+┃ ├─ ✅ Good reputation  
+┃ ├─ ✅ Active player
+┃ └─ ⚠️ Relatively new (15 days)
+┃
+┗━━━━━━━━━━━━━━━━━━━━┛
+
+Officer Notes (Private):
+[📝 Add Note]
+
+Actions:
+[✅ Approve] [❌ Reject] [⏳ Trial Period]
+[💬 Message Applicant] [◀️ Back]
+```
+
+**Bulk Actions:**
+```
+/requests bulk
+
+Select multiple:
+☑️ @Player123
+☑️ @CityBuilder  
+☐ @NoobGamer
+
+Actions:
+├─ [✅ Accept All Selected]
+├─ [❌ Reject All Selected]
+├─ [📧 Send Message to Selected]
+└─ [🏷️ Tag as Priority]
+```
+
+**Rejection System:**
+```
+When rejecting:
+
+Select Reason:
+├─ ( ) Doesn't meet requirements
+├─ ( ) Not active enough
+├─ ( ) Suspicious account
+├─ ( ) City full
+├─ ( ) Other
+
+Custom Message (Optional):
+[Thank you for applying! Unfortunately...]
+
+[❌ Reject & Send Message]
+
+User receives:
+"Your application to Avalon City was rejected.
+Reason: City currently full
+You can reapply in: 7 days"
+```
+
+**Trial Period System:**
+```
+[⏳ Accept with Trial]
+
+Trial Settings:
+├─ Duration: 3 days
+├─ Limited Permissions:
+│   ├─ ❌ Can't access treasury
+│   ├─ ❌ Can't start wars
+│   ├─ ✅ Can build
+│   └─ ✅ Can trade
+├─ Review After: Auto-notification
+└─ Auto-promote if active
+
+User sees:
+"Welcome! You're on 3-day trial.
+Be active to become full citizen!"
+```
+
+---
+
+### **3. Invite System (Reverse)**
+
+**Cities Can Send Invites:**
+```
+/invite @targetplayer
+
+Mayor/Officers can scout and invite:
+
+┏━━━ SEND INVITATION ━━━┓
+┃ To: @ProGamer (Level 15)
+┃
+┃ Current Status:
+┃ ├─ In City: Dragon City
+┃ ├─ Role: Builder
+┃ ├─ Activity: High
+┃ └─ Reputation: 🥇 Elite
+┃
+┃ Your Offer:
+┃ ├─ Role: General ⚔️
+┃ ├─ Signing Bonus: 5,000💰
+┃ ├─ Weekly Salary: 1,000💰
+┃ └─ Special Perks: Private vault access
+┃
+┃ Personal Message:
+┃ [Text: "We need strong warriors..."]
+┃
+┗━━━━━━━━━━━━━━━━━━━━┛
+
+[📤 Send Invitation]
+```
+
+**Player Receives:**
+```
+🎉 NEW CITY INVITATION!
+
+From: Avalon City (Level 18)
+Mayor: @KingArthur
+Population: 45/50
+Power Rank: #12
+
+They're offering you:
+├─ Role: General ⚔️  
+├─ Signing Bonus: 5,000💰
+├─ Weekly Salary: 1,000💰
+└─ Special Perks: Private vault
+
+Message from Mayor:
+"We've seen your skills! Join us and lead
+our army to victory!"
+
+Current City: Dragon City
+Warning: Leaving will reset your
+contribution points there.
+
+[✅ Accept] [❌ Decline] [💬 Negotiate]
+```
+
+**Poaching System:**
+```
+If player in another city:
+
+Leaving Fee:
+├─ Contribution Refund: 2,000💰
+├─ Loyalty Penalty: -500💰
+├─ 3-day cooldown before joining
+
+Former city notified:
+"@ProGamer left and joined Avalon City"
+
+Can set loyalty rewards to prevent:
+/setloyalty 7days 1000💰
+(Bonus if member stays 7 days)
+```
+
+---
+
+## 🕵️ **SPY & HACKER SYSTEM**
+
+### **1. Spy Operations**
+
+**Spy Types:**
+```
+Train spies at 🗼 Watch Tower (Level 5+)
+
+Spy Classes:
+├─ 🕵️ Scout (Basic intel) - 500💰
+├─ 🔍 Infiltrator (Detailed info) - 2,000💰
+├─ 💻 Cyber Spy (Hack systems) - 5,000💰
+└─ 👤 Master Spy (Deep cover) - 10,000💰
+```
+
+**Spy Missions:**
+
+**A) Reconnaissance:**
+```
+/spy @targetcity scout
+
+Mission: Basic Scout
+├─ Duration: 30 minutes
+├─ Success Rate: 80%
+├─ Risk: Low
+└─ Cost: 500💰
+
+If Successful:
+┏━━━ INTEL REPORT ━━━┓
+┃ Target: Dragon City
+┃ 
+┃ Resources (Estimated):
+┃ ├─ Gold: ~15,000💰 (±20%)
+┃ ├─ Wood: ~8,000🪵
+┃ └─ Stone: ~5,000⛏️
+┃
+┃ Military:
+┃ ├─ Troops: ~50 (±10)
+┃ ├─ Defense: Medium
+┃ └─ Active Guards: 5 online
+┃
+┃ Status: 🛡️ Peace Shield (2h left)
+┃
+┗━━━━━━━━━━━━━━━━━━┛
+
+If Failed:
+"⚠️ Your spy was caught!
+Dragon City now knows you tried to spy.
+Relationship: -50 points"
+```
+
+**B) Deep Infiltration:**
+```
+/spy @targetcity infiltrate
+
+Mission: Deep Intel
+├─ Duration: 2 hours
+├─ Success Rate: 50%
+├─ Risk: High (can lose spy)
+└─ Cost: 2,000💰
+
+If Successful - Detailed Report:
+┏━━━ CLASSIFIED INTEL ━━━┓
+┃ 
+┃ 📊 Exact Resources:
+┃ ├─ Gold: 14,750💰
+┃ ├─ Wood: 8,200🪵
+┃ ├─ Stone: 4,900⛏️
+┃ └─ Food: 3,100🌾
+┃
+┃ 🏗️ Buildings:
+┃ ├─ Barracks: Level 8
+┃ ├─ Wall: Level 6
+┃ ├─ Gold Mine: Level 10
+┃ └─ Laboratory: Level 3
+┃
+┃ ⚔️ Military Details:
+┃ ├─ Infantry: 30
+┃ ├─ Archers: 15
+┃ ├─ Cavalry: 5
+┃ └─ Total Power: 2,500
+┃
+┃ 🎯 Vulnerabilities:
+┃ ├─ Low food (3 days supply)
+┃ ├─ Weak east wall
+┃ └─ Mayor offline 12+ hours
+┃
+┃ 🗓️ Upcoming Plans:
+┃ ├─ Attack on City X in 6 hours
+┃ ├─ Building upgrade tomorrow
+┃ └─ Alliance meeting tonight
+┃
+┃ 👥 Key Members:
+┃ ├─ Mayor: @DragonKing (Level 20)
+┃ ├─ General: @WarLord (Level 18)
+┃ └─ 3 Officers, 42 Citizens
+┃
+┗━━━━━━━━━━━━━━━━━━━━┛
+
+Intel Valid For: 6 hours
+```
+
+**C) Sabotage Missions:**
+```
+/spy @targetcity sabotage
+
+Select Target:
+├─ 💣 Destroy Building (1 level down)
+├─ 🔥 Burn Resources (-20% random)
+├─ 😨 Lower Morale (-30% productivity)
+├─ 🐛 Plant Virus (slow production 24h)
+└─ 📢 Spread Rumors (citizen unrest)
+
+Example: Resource Burn
+├─ Duration: 4 hours
+├─ Success Rate: 30%
+├─ Risk: Very High
+├─ Cost: 5,000💰
+├─ Spy Lost if Caught: Yes
+
+If Successful:
+"🔥 Sabotage successful!
+Dragon City lost:
+├─ 3,000💰 Gold
+├─ 2,000🪵 Wood
+└─ They don't know who did it (yet)"
+
+If Failed:
+"💀 Your spy was caught and executed!
+Dragon City knows it was you!
+├─ War automatically declared
+├─ Lost 1 Master Spy
+└─ Relationship: -100 (Hostile)"
+```
+
+**D) Counter-Intelligence:**
+```
+/spy defend
+
+Hire Counter-Spies:
+├─ 1 Guard: 1,000💰/day (Catch rate: 40%)
+├─ 3 Guards: 2,500💰/day (Catch rate: 70%)
+├─ 5 Guards: 4,000💰/day (Catch rate: 90%)
+
+Auto-alerts when:
+├─ Enemy spy detected
+├─ Spy mission against you
+└─ Suspicious activity
+
+Catch a Spy:
+"🎯 Caught enemy spy from Avalon City!
+
+Options:
+├─ [💀 Execute] (Send message, -50 relations)
+├─ [🔒 Imprison] (Hold 24h, can negotiate)
+├─ [💰 Ransom] (Demand 10,000💰)
+└─ [🤝 Release] (+20 relations, gain intel)"
+```
+
+---
+
+### **2. Hacker Operations**
+
+**Cyber Warfare (Advanced Feature):**
+
+**A) Hack Systems:**
+```
+/hack @targetcity
+
+Requires:
+├─ 💻 Laboratory Level 10+
+├─ Cyber Spy trained
+└─ Hacking Tools (buy from Black Market)
+
+Hack Options:
+
+🔓 Breach Treasury
+├─ Steal 10% of gold
+├─ Success: 25%
+├─ Time: 6 hours
+├─ Detection: Medium
+└─ Cost: 10,000💰
+
+📊 Access Database  
+├─ See all their data for 24h
+├─ Success: 40%
+├─ Time: 3 hours
+├─ Detection: Low
+└─ Cost: 7,000💰
+
+⚠️ Disable Defenses
+├─ Lower defense -50% for 2h
+├─ Success: 20%
+├─ Time: 8 hours
+├─ Detection: Very High
+└─ Cost: 15,000💰
+
+🔄 Redirect Resources
+├─ Their production comes to you (1 day)
+├─ Success: 15%
+├─ Time: 12 hours
+├─ Detection: Extreme
+└─ Cost: 20,000💰
+```
+
+**B) Defense Against Hacks:**
+```
+/firewall
+
+Build Digital Defenses:
+├─ 🔐 Basic Firewall - 5,000💰 (Block 30%)
+├─ 🛡️ Advanced Security - 15,000💰 (Block 60%)
+├─ 🚨 AI Defense - 30,000💰 (Block 85%)
+└─ ⚡ Quantum Shield - 50,000💰 (Block 95%)
+
+Active Monitoring:
+├─ Real-time alerts
+├─ Auto-counter attacks
+└─ Trace hacker location
+```
+
+**C) Social Engineering:**
+```
+/infiltrate @targetcity social
+
+Advanced Spy Technique:
+
+Befriend Enemy Citizens:
+├─ Send gifts (1,000💰)
+├─ Chat with members
+├─ Gain trust over 3 days
+└─ Extract information
+
+Information Gathered:
+├─ Internal conflicts
+├─ Secret plans
+├─ Vault locations
+├─ Mayor's schedule
+└─ Upcoming attacks
+
+Use Intel:
+├─ Blackmail for resources
+├─ Turn citizens against each other
+├─ Recruit spies from within
+└─ Perfect attack timing
+```
+
+---
+
+### **3. Counter-Spy Network**
+
+**Build Intelligence Agency:**
+```
+/agency
+
+🏢 Intelligence HQ (New Building)
+
+Unlocks:
+├─ Train multiple spies simultaneously
+├─ Counter-intelligence operations
+├─ Intel marketplace (sell info)
+└─ Spy network (coordinate with allies)
+
+Levels:
+├─ Lv 1: 2 spy slots
+├─ Lv 5: 5 spy slots + Encryption
+├─ Lv 10: 10 slots + Cyber division
+└─ Lv 15: Unlimited + AI assistance
+
+Passive Effects:
+├─ +10% spy success per level
+├─ -5% enemy spy success per level
+└─ See who's spying on allies
+```
+
+**Spy Rankings:**
+```
+/spyleaderboard
+
+🏆 TOP SPIES (This Month):
+
+1. 🥇 Shadow City - 47 Successful Missions
+   └─ Specialty: Infiltration
+
+2. 🥈 Night Ops City - 39 Successes  
+   └─ Specialty: Sabotage
+
+3. 🥉 Your City - 28 Successes
+   └─ Specialty: Counter-Intel
+
+Personal Stats:
+├─ Missions: 28 success / 5 failed
+├─ Spies Lost: 2
+├─ Info Sold: 15,000💰 earned
+└─ Rank: Master Spy 🕵️
+```
+
+---
+
+## 🎯 **SELF-SUSTAINING CITY MECHANICS**
+
+### **1. Passive Income Systems**
+
+**A) Citizen Jobs:**
+```
+Citizens can work:
+
+/work
+
+Available Jobs:
+├─ ⛏️ Mining (60 min cooldown)
+│   └─ Earn: 100-300💰 + 50⛏️ Stone
+├─ 🪓 Lumberjack (45 min)
+│   └─ Earn: 80-200💰 + 100🪵 Wood
+├─ 🌾 Farming (90 min)
+│   └─ Earn: 50-150💰 + 80🌾 Food
+└─ 🏪 Trading (2 hours)
+    └─ Earn: 200-500💰
+
+Earnings Split:
+├─ 70% to Citizen
+├─ 20% to City Treasury
+└─ 10% to Officer who manages
+
+Mayor can set tax rates!
+```
+
+**B) Business System:**
+```
+Citizens can own businesses:
+
+/business create
+
+Business Types:
+├─ 🏪 Shop (Sell items to city members)
+├─ 🏭 Factory (Convert resources)
+├─ 🏨 Inn (Passive income from visitors)
+├─ 🎰 Casino (Gambling for citizens)
+└─ 🏦 Bank (Loan money, earn interest)
+
+Example - Factory:
+Input: 100🪵 Wood
+Process: 2 hours
+Output: 50⛏️ Stone + 200💰
+Owner Profit: 30%
+City Tax: 10%
+
+Creates mini-economy!
+```
+
+**C) Automated Systems:**
+```
+Mayor can setup auto-systems:
+
+/automation
+
+Auto-Collect Resources:
+├─ Every 6 hours
+├─ Distribute to treasury
+└─ Notify citizens
+
+Auto-Build Queue:
+├─ Set priority buildings
+├─ Auto-upgrade when resources available
+└─ Smart resource management
+
+Auto-Defense:
+├─ Deploy troops when attacked
+├─ Activate shields automatically
+└─ Alert all citizens
+
+Auto-Trade:
+├─ Sell excess resources
+├─ Buy needed resources
+└─ Maintain balance
+```
+
+---
+
+### **2. City Events (Self-Running)**
+
+**Random Events:**
+```
+Every 6-12 hours:
+
+🎉 CITY EVENT!
+
+Positive Events:
+├─ 🎊 Festival (+50 morale, +1000💰)
+├─ 💎 Discovery (Found 5000💰 in old ruins)
+├─ 🌟 Celebrity Visit (+100 fame)
+├─ 📈 Economic Boom (+50% income 24h)
+└─ 🤝 Alliance Offer (Random city wants alliance)
+
+Negative Events:
+├─ 🔥 Fire (-20% wood, need repairs)
+├─ 🦠 Plague (-10 population, need medicine)
+├─ 📉 Recession (-30% income 24h)
+├─ 🌪️ Storm (Building damaged)
+└─ 🐀 Rat Infestation (Food -50%)
+
+Choice Events:
+├─ "Stranger offers trade" (Risk/Reward)
+├─ "Refugees want to join" (More citizens vs resources)
+├─ "Neighboring city wants help" (Alliance opportunity)
+└─ "Ancient map found" (Treasure hunt)
+```
+
+**Scheduled City Activities:**
+```
+/schedule
+
+Mayor Creates Schedule:
+
+Monday:
+├─ 08:00 - Resource Boost Active
+├─ 12:00 - City Hall Meeting
+├─ 18:00 - Training Session (Troops)
+└─ 21:00 - Trade Hour (Discount 20%)
+
+Wednesday:
+├─ 15:00 - War Planning
+├─ 20:00 - Arena Tournament
+└─ 22:00 - Treasure Distribution
+
+Friday:
+├─ All Day - Double XP
+└─ 19:00 - City vs City Battle
+
+Citizens get notifications!
+Auto-participation rewards.
+```
+
+---
+
+### **3. Democracy/Voting System**
+
+**Citizen Power:**
+```
+/vote create
+
+Mayor can create polls:
+
+📊 VOTE: Should we attack Dragon City?
+
+Options:
+├─ ✅ Yes, attack now
+├─ ⏳ Wait for backup
+└─ ❌ No, focus on building
+
+Voting Power:
+├─ Citizens: 1 vote
+├─ Officers: 2 votes
+├─ General: 3 votes
+
+Duration: 24 hours
+Required: 60% majority
+
+Result is binding!
+Mayor must follow or lose support.
+```
+
+**Mayor Elections (ADVANCED):**
+```
+Every 30 days:
+
+🗳️ MAYOR ELECTION!
+
+Candidates:
+├─ Current Mayor: @KingArthur
+├─ Challenger: @ProPlayer
+
+Campaign Period: 7 days
+
+Citizens can:
+├─ View candidate platforms
+├─ Attend debates
+├─ Vote privately
+
+Winner becomes new Mayor!
+Loser stays as Officer (if they want)
+
+Keeps cities dynamic!
+```
+
+---
+
+### **4. Quest/Mission Board**
+
+**City Missions:**
+```
+/missions
+
+Daily City Quests:
+├─ 🎯 Collect 10,000 Wood (Team goal)
+│   └─ Reward: 5,000💰 split + Bonus building
+├─ ⚔️ Win 3 Wars Today
+│   └─ Reward: +2 City Levels
+├─ 🤝 Make 5 Trade Deals  
+│   └─ Reward: Market Upgrade
+└─ 👥 Recruit 10 New Citizens
+    └─ Reward: Population Boost Item
+
+Progress: 6,234 / 10,000 🪵
+Contributors: 12 citizens
+Top Contributor: @Builder1 (2,000🪵)
+
+Everyone who helps gets reward!
+```
+
+**Personal Quests:**
+```
+Citizen Daily Quests:
+├─ Work 3 times (300💰)
+├─ Donate 500💰 to city (Personal badge)
+├─ Help in 1 war (War chest reward)
+└─ Trade once (Trade reputation +1)
+
+Weekly Quests:
+├─ Be active 5 days (1,000💰)
+├─ Contribute 5,000 resources (Special item)
+└─ Recruit 1 friend (Referral bonus)
+```
+
+---
+
+## 🎪 **SPECIAL CITY FEATURES**
+
+**1. City Specializations:**
+```
+At Level 10, choose path:
+
+🏰 MILITARY EMPIRE
+├─ +30% Attack Power
+├─ Cheaper troop training
+├─ War Chest (Extra loot)
+└─ Unlocks: Legendary Weapons
+
+💰 TRADE FEDERATION  
+├─ +40% Trade Income
+├─ Zero trade fees
+├─ Auto-market system
+└─ Unlocks: Stock Exchange
+
+🛡️ FORTRESS KINGDOM
+├─ +50% Defense
+├─ Impossible to raid
+├─ Peace Shield perks
+└─ Unlocks: Impenetrable Walls
+
+🌾 AGRICULTURAL EMPIRE
+├─ +60% Resource Production
+├─ Population growth +100%
+├─ Never run out of food
+└─ Unlocks: Golden Harvest
+
+Can CHANGE specialization:
+Cost: 50,000💰 + 7 days
+```
+
+**2. City Secrets:**
+```
+Hidden Achievements:
+
+🔐 SECRET: The Vault Master
+├─ Collect 1,000,000💰 total
+├─ Reward: Golden Vault (No raid limit)
+
+🔐 SECRET: The Diplomat
+├─ Make 100 successful trades
+├─ Reward: Instant Trade Token
+
+🔐 SECRET: War Machine
+├─ Win 50 wars without losing
+├─ Reward: Invincibility Shield (1 use)
+
+🔐 SECRET: The Architect  
+├─ Build every building type to Lv10
+├─ Reward: Wonder of the World
+
+🔐 SECRET: The Spy Network
+├─ Complete 100 spy missions
+├─ Reward: Master Spy HQ
+
+Don't tell anyone how to unlock!
+Let players discover!
+```
+
+**3. City Mascot/Pet:**
+```
+/pet
+
+Cities can have pets:
+├─ 🐉 Dragon (Attack +15%)
+├─ 🦅 Eagle (Spy +20% success)
+├─ 🐻 Bear (Defense +10%)
+├─ 🦁 Lion (Morale boost)
+
+Feed daily: 100🌾
+Pet grows with city
+Evolves at city Levels 10, 20, 30
+
+Evolved Dragon:
+├─ Attack +30%
+├─ Can raid for you
+├─ Scares enemies
+└─ Looks badass in profile!
+```
+
+---
+
+Bhai, ab game **INSANELY DEEP** ho gaya! 
+
+Features need to add:
+✅ Advanced trades with buffs
+✅ Complete registration system
+✅ Request management
+✅ Spy missions (10+ types)
+✅ Hacker operations
+✅ Self-sustaining mechanics
+✅ Democracy/voting
+✅ Events & schedules
+✅ Secrets & achievements
+
+Aur cha
