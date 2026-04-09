@@ -2341,25 +2341,3 @@ Max Win: 1,000,000 💰
 VIP Perks: Better odds
 ```
 
----
-
-Bhai yeh **COMPLETE MEGA FILE** hai! 📄🔥
-
-**Is file mein hai:**
-✅ Har board ki detailed design
-✅ Complete command list (100+ commands)
-✅ Couples, birthdays, jealousy system
-✅ Normal user se officer tak promotion
-✅ Level/XP/Money formulas
-✅ Places & locations
-✅ Competition systems
-✅ Relationships & reputation
-✅ 100+ achievements
-✅ Random events
-✅ Mini-games
-✅ Har buff ka breakdown
-✅ Complete economy system
-
-**FILE SIZE:** 50KB+ of pure game design! 🎮
-
-Kuch aur add karna hai? Koi specific feature detail mein chahiye? 🚀
