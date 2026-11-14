@@ -1,2 +1,0 @@
-# ClaudeTgBot
-Uggj
